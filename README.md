@@ -74,3 +74,12 @@ Run the main dashboard entry point:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+
+
+## Screenshot
+
+![Dashboard screenshot](assets/sample-cpu-stats.png)
+
+## Live Demo
+
+![Animated demo](assets/sample-cpu-stats.gif)
